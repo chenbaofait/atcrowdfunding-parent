@@ -29,7 +29,7 @@
         <mysql.connector>5.1.37</mysql.connector>
 
         <!-- 基础框架 -->
-        <spring.version>5.2.5.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <mybatis.version>3.5.1</mybatis.version>
         <mybatis.spring.version>2.0.4</mybatis.spring.version>
 
